@@ -1,0 +1,27 @@
+[INFO ] 2022-09-18 22:46:18.985 [ForkJoinPool-2-worker-1] Log - -----------------------------------------------------------------------------
+[INFO ] 2022-09-18 22:46:19.002 [ForkJoinPool-2-worker-1] Log - Tests Started!
+[INFO ] 2022-09-18 22:46:19.003 [ForkJoinPool-2-worker-1] Log - Retrieved from CLI. Username: pabitra & Password: swain
+[INFO ] 2022-09-18 22:46:26.403 [ForkJoinPool-2-worker-1] Log - Navigated to wikipedia.org
+[INFO ] 2022-09-18 22:46:26.535 [ForkJoinPool-2-worker-1] Log - Wiki Heading is available
+[INFO ] 2022-09-18 22:46:27.073 [ForkJoinPool-2-worker-0] Log - Navigated to facebook.com
+[INFO ] 2022-09-18 22:46:27.173 [ForkJoinPool-2-worker-0] Log - Login button is visible
+[INFO ] 2022-09-18 22:46:27.527 [ForkJoinPool-2-worker-1] Log - Navigated to wikipedia.org
+[INFO ] 2022-09-18 22:46:27.557 [ForkJoinPool-2-worker-1] Log - Search Bar is Visible
+[INFO ] 2022-09-18 22:46:28.409 [ForkJoinPool-2-worker-0] Log - Navigated to facebook.com
+[INFO ] 2022-09-18 22:46:28.429 [ForkJoinPool-2-worker-0] Log - Create New Account button is visible
+[INFO ] 2022-09-18 22:46:31.958 [ForkJoinPool-2-worker-1] Log - Navigated to linkedin.com
+[INFO ] 2022-09-18 22:46:32.067 [ForkJoinPool-2-worker-1] Log - Sign in button is visible
+[INFO ] 2022-09-18 22:46:33.290 [ForkJoinPool-2-worker-1] Log - Navigated to linkedin.com
+[INFO ] 2022-09-18 22:46:33.354 [ForkJoinPool-2-worker-1] Log - Join now button is visible
+[INFO ] 2022-09-18 22:46:34.302 [ForkJoinPool-2-worker-0] Log - Navigated to google.com
+[INFO ] 2022-09-18 22:46:34.364 [ForkJoinPool-2-worker-0] Log - Search Bar is Visible
+[INFO ] 2022-09-18 22:46:35.377 [ForkJoinPool-2-worker-0] Log - Navigated to google.com
+[INFO ] 2022-09-18 22:46:35.502 [ForkJoinPool-2-worker-0] Log - Typed into Search Bar
+[INFO ] 2022-09-18 22:46:35.585 [ForkJoinPool-2-worker-0] Log - Clicked on Search Button
+[INFO ] 2022-09-18 22:46:36.318 [ForkJoinPool-2-worker-0] Log - Currently on Search Result Page
+[INFO ] 2022-09-18 22:46:36.866 [ForkJoinPool-2-worker-1] Log - Executed Features are: [LinkedIn, Google, Wiki, Facebook]
+[INFO ] 2022-09-18 22:46:36.867 [ForkJoinPool-2-worker-1] Log - Cucumber Report Generated: D:\IdeaProjects\Junit5_Cucumber\target\cucumber-report.html
+[INFO ] 2022-09-18 22:46:36.867 [ForkJoinPool-2-worker-1] Log - Allure Report Generated: allure serve D:\IdeaProjects\Junit5_Cucumber\target\allure-results
+[INFO ] 2022-09-18 22:46:36.867 [ForkJoinPool-2-worker-1] Log - Time Line Report Generated: D:\IdeaProjects\Junit5_Cucumber\target\timeline\index.html
+[INFO ] 2022-09-18 22:46:36.868 [ForkJoinPool-2-worker-1] Log - Tests Complete!
+[INFO ] 2022-09-18 22:46:36.868 [ForkJoinPool-2-worker-1] Log - -----------------------------------------------------------------------------
